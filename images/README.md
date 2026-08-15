@@ -6,6 +6,7 @@ This directory contains screenshots, gameplay guides, and visual resources for M
 
 ### Control Interface Screenshots
 - **msi-app-player-settings.png** - Settings interface overview
+- **msi-settings-interface.jpg** - Main settings menu (Performance, Display, Graphics, Gamepad)
 - [Free Fire control overlay - to be added]
 - [Free Fire gameplay screenshot - to be added]
 - [Free Fire map interface - to be added]
