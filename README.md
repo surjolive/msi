@@ -172,20 +172,24 @@ extracted/BlueStacksMicroInstaller_5.22.167.6310_native.exe
 
 ## 📸 Screenshots & Resources
 
-### Game Interface
-![MSI App Player Settings](images/msi-app-player-settings.png)
-*Settings interface with performance and graphics options*
+### MSI App Player Settings Interface
+![MSI App Player Settings](images/msi-settings-interface.svg)
+*Professional settings interface showing Performance, Display, Graphics, Gamepad, and other configuration options*
 
-### Free Fire Gameplay
-- [Control overlay view]
-- [Map interface]
-- [Inventory management]
-- [Combat scenarios]
+### Free Fire Control Overlay & Gameplay
+![Free Fire Controls](images/free-fire-controls.svg)
+*Real-time gameplay overlay showing movement controls (WASD), combat controls (Fire/Aim), and status information*
 
-### Configuration Examples
-- [Keyboard mapping guide]
-- [Gamepad button layout]
-- [Sensitivity optimization]
+### Keyboard & Gamepad Mapping Guide
+![Control Mapping](images/keyboard-gamepad-mapping.svg)
+*Complete control mapping reference for keyboard keys and gamepad buttons with color-coded functions*
+
+### Quick Reference
+- **Movement Controls:** WASD (or Arrow keys) + Shift (Sprint), Space (Jump), C (Crouch)
+- **Combat Controls:** Left Click (Shoot), Right Click (Aim), R (Reload), G (Grenade), E (Skill)
+- **Gamepad Controls:** Full Xbox controller support with Left Stick (Move), Right Stick (Aim), RT (Fire), LT (ADS)
+- **See:** [GAME_CONTROLS.md](GAME_CONTROLS.md) for detailed function reference
+- **See:** [GAME_CONFIGS.md](GAME_CONFIGS.md) for game-specific configurations
 
 ---
 
