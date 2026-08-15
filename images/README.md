@@ -5,12 +5,10 @@ This directory contains screenshots, gameplay guides, and visual resources for M
 ## Free Fire Resources
 
 ### Control Interface Screenshots
-- **msi-app-player-settings.png** - Settings interface overview
 - **msi-settings-interface.jpg** - Main settings menu (Performance, Display, Graphics, Gamepad)
-- **readme-screenshot.png** - README section screenshot (Screenshots & Resources view)
-- [Free Fire control overlay - to be added]
-- [Free Fire gameplay screenshot - to be added]
-- [Free Fire map interface - to be added]
+- **msi-settings-interface.svg** - Settings interface (Vector format)
+- **free-fire-controls.svg** - Free Fire control overlay and gameplay demo
+- **keyboard-gamepad-mapping.svg** - Keyboard and gamepad button mapping guide
 
 ### Game Guides
 - Optimal sensitivity settings for competitive play
@@ -39,7 +37,11 @@ This directory contains screenshots, gameplay guides, and visual resources for M
 
 ```
 images/
-├── msi-app-player-settings.png
+├── msi-settings-interface.jpg       (Original JPG screenshot)
+├── msi-settings-interface.svg       (Vector format)
+├── free-fire-controls.svg           (Control overlay demo)
+├── keyboard-gamepad-mapping.svg     (Control mapping guide)
+├── README.md                        (This file)
 ├── free-fire/
 │   ├── controls/
 │   ├── gameplay/

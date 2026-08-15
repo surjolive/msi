@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+  <!-- Background -->
+  <rect width="1400" height="900" fill="#1a1a1a"/>
+  
+  <!-- Title -->
+  <text x="700" y="50" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">
+    Keyboard Control Mapping - Free Fire
+  </text>
+  
+  <!-- Section 1: Movement Controls -->
+  <g id="movementSection">
+    <rect x="30" y="80" width="650" height="280" fill="#2a2a2a" stroke="#ff6b6b" stroke-width="2" rx="8"/>
+    <text x="50" y="110" font-size="20" font-weight="bold" fill="#ff6b6b" font-family="Arial">
+      MOVEMENT CONTROLS
+    </text>
+    
+    <!-- Key Boxes -->
+    <!-- W Key -->
+    <rect x="80" y="150" width="50" height="50" fill="#4CAF50" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="105" y="185" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">W</text>
+    <text x="155" y="165" font-size="12" fill="#cccccc" font-family="Arial">Move Forward</text>
+    
+    <!-- A Key -->
+    <rect x="80" y="220" width="50" height="50" fill="#4CAF50" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="105" y="255" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">A</text>
+    <text x="155" y="235" font-size="12" fill="#cccccc" font-family="Arial">Move Left</text>
+    
+    <!-- S Key -->
+    <rect x="150" y="220" width="50" height="50" fill="#4CAF50" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="175" y="255" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">S</text>
+    <text x="225" y="235" font-size="12" fill="#cccccc" font-family="Arial">Move Backward</text>
+    
+    <!-- D Key -->
+    <rect x="220" y="220" width="50" height="50" fill="#4CAF50" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="245" y="255" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">D</text>
+    <text x="295" y="235" font-size="12" fill="#cccccc" font-family="Arial">Move Right</text>
+    
+    <!-- Other Movement Keys -->
+    <rect x="330" y="150" width="60" height="50" fill="#2196F3" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="360" y="185" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">SHIFT</text>
+    <text x="420" y="165" font-size="12" fill="#cccccc" font-family="Arial">Sprint</text>
+    
+    <rect x="330" y="220" width="60" height="50" fill="#2196F3" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="360" y="255" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">SPACE</text>
+    <text x="420" y="235" font-size="12" fill="#cccccc" font-family="Arial">Jump</text>
+    
+    <!-- Combat Subheader -->
+    <text x="50" y="310" font-size="16" font-weight="bold" fill="#ffff00" font-family="Arial">
+      Other: C (Crouch) | Alt (Roll) | Tab (Inventory)
+    </text>
+  </g>
+  
+  <!-- Section 2: Combat Controls -->
+  <g id="combatSection">
+    <rect x="720" y="80" width="650" height="280" fill="#2a2a2a" stroke="#ff9f43" stroke-width="2" rx="8"/>
+    <text x="740" y="110" font-size="20" font-weight="bold" fill="#ff9f43" font-family="Arial">
+      COMBAT CONTROLS
+    </text>
+    
+    <!-- Left Click -->
+    <rect x="770" y="150" width="70" height="50" fill="#ff0000" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="805" y="185" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">LClick</text>
+    <text x="870" y="165" font-size="12" fill="#cccccc" font-family="Arial">Shoot / Attack</text>
+    
+    <!-- Right Click -->
+    <rect x="770" y="220" width="70" height="50" fill="#ff0000" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="805" y="255" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">RClick</text>
+    <text x="870" y="235" font-size="12" fill="#cccccc" font-family="Arial">Aim / Secondary</text>
+    
+    <!-- R Key -->
+    <rect x="880" y="150" width="50" height="50" fill="#9C27B0" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="905" y="185" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">R</text>
+    <text x="960" y="165" font-size="12" fill="#cccccc" font-family="Arial">Reload</text>
+    
+    <!-- E Key -->
+    <rect x="880" y="220" width="50" height="50" fill="#9C27B0" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="905" y="255" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">E</text>
+    <text x="960" y="235" font-size="12" fill="#cccccc" font-family="Arial">Interact / Skill</text>
+    
+    <!-- G Key -->
+    <rect x="990" y="150" width="50" height="50" fill="#ff5722" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="1015" y="185" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">G</text>
+    <text x="1070" y="165" font-size="12" fill="#cccccc" font-family="Arial">Grenade</text>
+    
+    <!-- F Key -->
+    <rect x="990" y="220" width="50" height="50" fill="#ff5722" stroke="#ffffff" stroke-width="2" rx="4"/>
+    <text x="1015" y="255" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">F</text>
+    <text x="1070" y="235" font-size="12" fill="#cccccc" font-family="Arial">Melee Attack</text>
+    
+    <!-- Other Combat -->
+    <text x="740" y="310" font-size="16" font-weight="bold" fill="#ffff00" font-family="Arial">
+      Other: 1-3 (Switch Weapon) | M (Map) | T (Chat) | Z (Scope)
+    </text>
+  </g>
+  
+  <!-- Section 3: Gamepad Mapping -->
+  <g id="gamepadSection">
+    <rect x="30" y="400" width="1340" height="480" fill="#2a2a2a" stroke="#4CAF50" stroke-width="2" rx="8"/>
+    <text x="60" y="440" font-size="20" font-weight="bold" fill="#4CAF50" font-family="Arial">
+      GAMEPAD BUTTON MAPPING
+    </text>
+    
+    <!-- Left Stick Section -->
+    <g id="leftStick">
+      <rect x="100" y="480" width="200" height="140" fill="#1a1a1a" stroke="#cccccc" stroke-width="1" rx="4"/>
+      <text x="200" y="505" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">
+        LEFT STICK
+      </text>
+      <circle cx="200" cy="545" r="25" fill="#2196F3" stroke="#ffffff" stroke-width="2"/>
+      <text x="200" y="550" font-size="12" fill="#ffffff" text-anchor="middle" font-family="Arial">Move</text>
+      <text x="200" y="610" font-size="11" fill="#cccccc" text-anchor="middle" font-family="Arial">Up/Down/Left/Right</text>
+    </g>
+    
+    <!-- Right Stick Section -->
+    <g id="rightStick">
+      <rect x="350" y="480" width="200" height="140" fill="#1a1a1a" stroke="#cccccc" stroke-width="1" rx="4"/>
+      <text x="450" y="505" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">
+        RIGHT STICK
+      </text>
+      <circle cx="450" cy="545" r="25" fill="#ff9f43" stroke="#ffffff" stroke-width="2"/>
+      <text x="450" y="550" font-size="12" fill="#ffffff" text-anchor="middle" font-family="Arial">Aim</text>
+      <text x="450" y="610" font-size="11" fill="#cccccc" text-anchor="middle" font-family="Arial">Look Around</text>
+    </g>
+    
+    <!-- Buttons Section -->
+    <g id="buttons">
+      <!-- A Button -->
+      <circle cx="750" cy="520" r="20" fill="#4CAF50" stroke="#ffffff" stroke-width="2"/>
+      <text x="750" y="527" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">A</text>
+      <text x="800" y="527" font-size="12" fill="#cccccc" font-family="Arial">Jump / Interact</text>
+      
+      <!-- B Button -->
+      <circle cx="750" cy="580" r="20" fill="#ff0000" stroke="#ffffff" stroke-width="2"/>
+      <text x="750" y="587" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">B</text>
+      <text x="800" y="587" font-size="12" fill="#cccccc" font-family="Arial">Crouch / Dodge</text>
+      
+      <!-- X Button -->
+      <circle cx="750" cy="640" r="20" fill="#2196F3" stroke="#ffffff" stroke-width="2"/>
+      <text x="750" y="647" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">X</text>
+      <text x="800" y="647" font-size="12" fill="#cccccc" font-family="Arial">Reload</text>
+      
+      <!-- Y Button -->
+      <circle cx="750" cy="700" r="20" fill="#ffff00" stroke="#ffffff" stroke-width="2"/>
+      <text x="750" y="707" font-size="16" font-weight="bold" fill="#000000" text-anchor="middle" font-family="Arial">Y</text>
+      <text x="800" y="707" font-size="12" fill="#cccccc" font-family="Arial">Grenade / Skill</text>
+    </g>
+    
+    <!-- Triggers Section -->
+    <g id="triggers">
+      <!-- LT -->
+      <rect x="1050" y="480" width="130" height="60" fill="#2196F3" stroke="#ffffff" stroke-width="2" rx="4"/>
+      <text x="1115" y="520" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">LT</text>
+      <text x="1115" y="540" font-size="11" fill="#cccccc" text-anchor="middle" font-family="Arial">ADS / Aim</text>
+      
+      <!-- RT -->
+      <rect x="1050" y="560" width="130" height="60" fill="#ff0000" stroke="#ffffff" stroke-width="2" rx="4"/>
+      <text x="1115" y="600" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">RT</text>
+      <text x="1115" y="620" font-size="11" fill="#cccccc" text-anchor="middle" font-family="Arial">Fire / Attack</text>
+      
+      <!-- LB -->
+      <rect x="1050" y="640" width="130" height="60" fill="#9C27B0" stroke="#ffffff" stroke-width="2" rx="4"/>
+      <text x="1115" y="680" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">LB</text>
+      <text x="1115" y="700" font-size="11" fill="#cccccc" text-anchor="middle" font-family="Arial">Equipment</text>
+    </g>
+    
+    <!-- D-Pad Section -->
+    <g id="dpad">
+      <rect x="330" y="650" width="200" height="140" fill="#1a1a1a" stroke="#cccccc" stroke-width="1" rx="4"/>
+      <text x="430" y="675" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial">
+        D-PAD
+      </text>
+      <rect x="390" y="710" width="80" height="30" fill="#ff9f43" stroke="#ffffff" stroke-width="1" rx="2"/>
+      <text x="430" y="730" font-size="11" fill="#ffffff" text-anchor="middle" font-family="Arial">Items</text>
+    </g>
+  </g>
+  
+  <!-- Footer -->
+  <text x="700" y="880" font-size="12" fill="#666666" text-anchor="middle" font-family="Arial">
+    MSI App Player - Free Fire Control Mapping Guide | Updated: 2026-08-15
+  </text>
+</svg>
